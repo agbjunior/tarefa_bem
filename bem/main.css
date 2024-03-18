@@ -1,0 +1,22 @@
+.produto {
+  margin-left: 16px;
+}
+.produto__imagem {
+  width: 50%;
+}
+.produto__nome {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+.produto__descricao {
+  color: gray;
+  margin-bottom: 16px;
+}
+.produto__destaque--sending {
+  border: 2px solid rgba(255, 217, 0, 0.975);
+  padding: 8px;
+  background-color: rgba(255, 255, 66, 0.8156862745);
+  cursor: grab;
+}
+
+/*# sourceMappingURL=main.css.map */
